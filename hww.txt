@@ -3286,7 +3286,33 @@ IPTV法治,http://116.23.137.162:4000/rtp/239.77.1.86:5146
 
 
 
- 广东珠江台,#genre#
+广东珠江台,#genre#
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
+
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+
+广东珠江,http://6f155.x3322.net:8001/rtp/239.77.0.1:5146
+
+广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
+
+广东珠江,http://jtxytv.cn:44444/rtp/239.77.0.114:5146
+
+广东珠江,http://qwas.eatuo.com:9901/tsfile/live/1000_1.m3u8
+
+珠江台,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
+
+广东珠江,http://www.22803189.xyz:8001/rtp/239.77.0.114:5146
+
+广东珠江,http://www.hetvhk.top:9999/rtp/239.77.0.114:5146
+
+广东珠江,http://www.recker.cc:4022/rtp/239.77.0.114:5146
+
+珠江台,https://skype.serv00.net/itouch.php?id=gdzj
+
+广东珠江,http://183.11.239.32:808/hls/83/index.m3u8
+
+广东珠江,http://112.91.153.50:9901/tsfile/live/0109_1.m3u8
+
 1 广东珠江台,http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 
 广东珠江,http://183.63.15.42:9901/tsfile/live/37339_1.m3u8
