@@ -213,7 +213,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 
-广东,#genre#
+广东组播,#genre#
 广东卫视,http://219.135.208.218:8083/tsfile/live/0016_1.m3u8?key=txiptv
 广东珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8?key=txiptv
 广东新闻,http://219.135.208.218:8083/tsfile/live/0018_1.m3u8?key=txiptv
@@ -290,6 +290,15 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 
 
+
+广东体育,#genre#
+1 广东体育,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+
+2 广东体育a,http://r.jdshipin.com/LiYdg
+
+3 广东体育b,http://r.jdshipin.com/LiYdg
+
+4 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 
 
 
@@ -2645,99 +2654,9 @@ TWINS-神奇两女侠(演唱会),http://em.21dtv.com/songs/60038485.mkv
 
 
 
-广东珠江台,#genre#
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
-
-广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
-
-广东珠江,http://6f155.x3322.net:8001/rtp/239.77.0.1:5146
-
-广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
-
-广东珠江,http://jtxytv.cn:44444/rtp/239.77.0.114:5146
-
-广东珠江,http://qwas.eatuo.com:9901/tsfile/live/1000_1.m3u8
-
-珠江台,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
-
-广东珠江,http://www.22803189.xyz:8001/rtp/239.77.0.114:5146
-
-广东珠江,http://www.hetvhk.top:9999/rtp/239.77.0.114:5146
-
-广东珠江,http://www.recker.cc:4022/rtp/239.77.0.114:5146
-
-珠江台,https://skype.serv00.net/itouch.php?id=gdzj
-
-广东珠江,http://183.11.239.32:808/hls/83/index.m3u8
-
-广东珠江,http://112.91.153.50:9901/tsfile/live/0109_1.m3u8
-
-1 广东珠江台,http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-
-广东珠江,http://183.63.15.42:9901/tsfile/live/37339_1.m3u8
-
-岭南戏曲,http://183.237.231.139:9901/tsfile/live/1065_1.m3u8 
-
-广东珠江,http://183.237.231.139:9901/tsfile/live/1056_1.m3u8
-
-广东珠江,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 
 
-2 广东珠江台,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-3 广东珠江台,http://[2409:8087:7001:20:1000::21]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-4 广东珠江台,http://[2409:8087:7001:20:1000::5]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-5 广东珠江台,http://[2409:8087:7001:20:1000::90]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-6 广东珠江台,http://[2409:8087:7001:20:1000::85]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-7 广东珠江台,http://[2409:8087:7001:20:1000::25]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-8 广东珠江台,http://[2409:8087:7001:20:1000::93]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-9 广东珠江台,http://[2409:8087:7001:20:1000::12]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-10 广东珠江台,http://[2409:8087:7001:20:1000::91]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-11 广东珠江台,http://[2409:8087:7001:20:1000::16]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-12 广东珠江台,http://[2409:8087:7001:20:1000::96]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-13 广东珠江台,http://[2409:8087:7001:20:1000::22]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-14 广东珠江台,http://[2409:8087:7001:20:1000::24]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-15 广东珠江台,http://[2409:8087:7001:20:1000::82]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-16 广东珠江台,http://[2409:8087:7001:20:1000::87]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-17 广东珠江台,http://[2409:8087:7001:20:1000::13]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-18 广东珠江台,http://[2409:8087:7001:20:1000::7]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-19 广东珠江台,http://[2409:8087:7001:20:1000::14]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-20 广东珠江台,http://[2409:8087:7001:20:1000::15]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-21 广东珠江台,http://[2409:8087:7001:20:1000::23]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-22 广东珠江台,http://[2409:8087:7001:20:1000::89]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-23 广东珠江台,http://[2409:8087:7001:20:1000::98]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-24 广东珠江台,http://[2409:8087:7001:20:1000::19]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-25 广东珠江台,http://[2409:8087:7001:20:1000::6]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-26 广东珠江台,http://[2409:8087:7001:20:1000::92]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-27 广东珠江台,http://[2409:8087:7001:20:1000::3]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-28 广东珠江台,http://[2409:8087:7001:20:1000::88]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-29 广东珠江台,http://[2409:8087:7001:20:1000::4]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-30 广东珠江台,http://[2409:8087:7001:20:1000::99]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-31 广东珠江台,http://[2409:8087:7001:20:1000::83]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-32 广东珠江台,http://[2409:8087:7001:20:1000::84]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-33 广东珠江台,http://[2409:8087:7001:20:1000::95]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-34 广东珠江台,http://[2409:8087:7001:20:1000::20]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 
-广东体育,#genre#
-1 广东体育,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-
-2 广东体育a,http://r.jdshipin.com/LiYdg
-
-3 广东体育b,http://r.jdshipin.com/LiYdg
-
-4 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
-
-5 广东体育,http://gxdl-lhs.8866.org:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-
-6 广东体育,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-
-7 广东体育,http://183.237.231.139:9901/tsfile/live/1059_1.m3u8
-
-8 广东体育,http://183.237.231.139:9901/tsfile/live/1059_1.m3u8
-
-9 广东体育,
-http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-
-10 广东体育 高清,http://112.89.121.23:80/PLTV/88888973/224/3221225750/10000100000000060000000000334588_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7840,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowknjg8NSqNVsWY2LwTOy6B9:20181110091937,END&GuardEncType=2
 
 
 
