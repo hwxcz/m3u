@@ -164,20 +164,25 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 
-珠江台,#genre#
-广东珠江1,http://183.11.239.36:808/hls/83/index.m3u8
-广东珠江2,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
-广东珠江3,http://6f155.x3322.net:8001/rtp/239.77.0.1:5146
-广东珠江4,http://gmxw.7766.org:808/hls/83/index.m3u8
-广东珠江5,http://jtxytv.cn:44444/rtp/239.77.0.114:5146
-广东珠江6,http://qwas.eatuo.com:9901/tsfile/live/1000_1.m3u8
-广东珠江7,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
-广东珠江8,http://www.22803189.xyz:8001/rtp/239.77.0.114:5146
-广东珠江9,http://www.hetvhk.top:9999/rtp/239.77.0.114:5146
-广东珠江10,http://www.recker.cc:4022/rtp/239.77.0.114:5146
-广东珠江11,https://skype.serv00.net/itouch.php?id=gdzj
-广东珠江12,http://183.11.239.32:808/hls/83/index.m3u8
-广东珠江13,http://112.91.153.50:9901/tsfile/live/0109_1.m3u8
+广东台,#genre#
+广东珠江,http://183.238.66.1:9090/live/gdzhujiang_1500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=8&pid=&cid=&d=61bc79e2f63c4cd8&sid=KbVtKg/HKKGjPCBGMZmfTw==&r=20240111220541&e=20240112220546&nc=G6XzfLX4vNtf&a=7&v=2&isSuma=1&hlsSessionID=10701117368886741885&srchost=172.16.149.181:8060&gid=IAhdUuL6BRWGR1mvqLzbPw%3D%3D
+
+广东体育,http://183.238.66.1:9090/live/gdsportsHD_3000.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=8&pid=&cid=&d=61bc79e2f63c4cd8&sid=7aY5EmaDr9IhquyvcT5vqg==&r=20240111221052&e=20240112221057&nc=XzjZgSrfa5SN&a=7&v=2&isSuma=1&hlsSessionID=15751341401029271127&srchost=172.16.149.181:8060&gid=BnFpvsjTAJr7RU9hf%2BwinQ%3D%3D
+
+广东新闻,http://183.238.66.1:9090/live/gdnews_1500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=8&pid=&cid=&d=61bc79e2f63c4cd8&sid=isvMuiWVSOzu3lr1d8N+Fg==&r=20240111221429&e=20240112221434&nc=hpgkVdts5gYx&a=7&v=2&isSuma=1&hlsSessionID=10701117368886746645&srchost=172.16.149.181:8060&gid=VGRFGwmcEhUbxE%2FguBvEkg%3D%3D
+
+大湾区卫视,http://183.238.66.1:9090/live/gdnanfang_1500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=8&pid=&cid=&d=61bc79e2f63c4cd8&sid=QPns/gxKBHt0zYkr2YRkFQ==&r=20240111221911&e=20240112221916&nc=vcRsjYnrZyGX&a=7&v=2&isSuma=1&hlsSessionID=10701117368886748923&srchost=172.16.149.181:8060&gid=a4pyNDB1xH87%2BndnwYI%2BNg%3D%3D
+
+广东民生,http://27.36.62.162:9090/live/gdpublic_1500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=8&pid=&cid=&d=61bc79e2f63c4cd8&sid=OfNKtsD/ffH1gR1L2v53+Q==&r=20240111222252&e=20240112222257&nc=eG1OKr2RCDrA&a=7&v=2&isSuma=1&hlsSessionID=15751341401029276846&srchost=172.16.149.181:8060&gid=S%2Fu6S5OME6s5YLAJ7rA8aw%3D%3D
+
+
+广东综艺,http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=8&pid=&cid=&d=61bc79e2f63c4cd8&sid=Wg7iI6zRyugGxDhOYhEpxA==&r=20240111222355&e=20240112222400&nc=reDna695OrS0&a=7&v=2&isSuma=1&hlsSessionID=10701117368886751312&srchost=172.16.149.181:8060&gid=xAon52gb4rsTTppppBE8ng%3D%3D
+
+广东影视,http://27.36.62.162:9090/live/gdyingshi_1500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=8&pid=&cid=&d=61bc79e2f63c4cd8&sid=MuC1nDhBsC5HmaUdu1U4PQ==&r=20240111222620&e=20240112222625&nc=Mf0vpyeMUMAa&a=7&v=2&isSuma=1&hlsSessionID=10701117368886752774&srchost=172.16.149.181:8060&gid=KY0Zd96LAIjIFCi9JYoHtQ%3D%3D
+
+广东少儿,http://27.36.62.162:9090/live/gdshaoer_1500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=8&pid=&cid=&d=61bc79e2f63c4cd8&sid=FwbXEPlvFQNCaerrYhSUqw==&r=20240111222802&e=20240112222807&nc=g4XxsqF6X7Wb&a=7&v=2&isSuma=1&hlsSessionID=15751341401029279636&srchost=172.16.149.181:8060&gid=K1H2th1cYjV1jNnB8fdO%2FQ%3D%3D
+
+
 
 
 
