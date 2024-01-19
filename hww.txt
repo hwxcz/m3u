@@ -152,6 +152,65 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 
 
 
+
+
+广东广电,#genre#
+
+广东珠江,http://www.51romzj.xyz/gdgjd.php?id=gdzj
+
+广东民生,http://www.51romzj.xyz/gdgjd.php?id=gdms
+
+广东新闻,http://www.51romzj.xyz/gdgjd.php?id=gdxw
+
+广东体育,http://www.51romzj.xyz/gdgjd.php?id=gdty
+
+广东影视,http://www.51romzj.xyz/gdgjd.php?id=gdys
+
+广东少儿,http://www.51romzj.xyz/gdgjd.php?id=gdse
+
+广州法治,http://www.51romzj.xyz/gdgjd.php?id=gdfz
+
+广州竞赛,http://www.51romzj.xyz/gdgjd.php?id=gzjs
+
+广州新闻,http://www.51romzj.xyz/gdgjd.php?id=gzxw
+
+广州影视,http://www.51romzj.xyz/gdgjd.php?id=gzys
+
+金鹰卡通,http://www.51romzj.xyz/gdgjd.php?id=jykt
+
+卡酷少儿,http://www.51romzj.xyz/gdgjd.php?id=kkse
+
+优漫卡通,http://www.51romzj.xyz/gdgjd.php?id=ymkt
+
+嘉佳卡通,http://www.51romzj.xyz/gdgjd.php?id=jjkt
+
+岭南戏曲,http://www.51romzj.xyz/gdgjd.php?id=lnxq
+
+翡翠台,http://www.51romzj.xyz/gdgjd.php?id=fct
+
+明珠台,http://www.51romzj.xyz/gdgjd.php?id=mzt
+
+星空卫视,http://www.51romzj.xyz/gdgjd.php?id=xkws
+
+凤凰中文,http://www.51romzj.xyz/gdgjd.php?id=fhzw
+
+澳亚卫视,http://www.51romzj.xyz/gdgjd.php?id=ayws
+
+浙江卫视,http://www.51romzj.xyz/gdgjd.php?id=zjws
+
+北京卫视,http://www.51romzj.xyz/gdgjd.php?id=bjws
+
+东方卫视,http://www.51romzj.xyz/gdgjd.php?id=dfws
+
+湖北卫视,http://www.51romzj.xyz/gdgjd.php?id=hubews
+
+广西卫视,http://www.51romzj.xyz/gdgjd.php?id=gxws
+
+东南卫视 http://www.51romzj.xyz/gdgjd.php?id=dnws
+
+
+
+
 广东触电,#genre#
 广东卫视,http://www.51romzj.xyz/diyroms/dll/ysp/itouch.php?id=gdws 
 
