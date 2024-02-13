@@ -272,6 +272,36 @@ HBO 家庭台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=78
 爱尔达体育四台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=59
 ELEVEN1台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=58
 
+无线新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=6
+J5台[1280x720],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=7
+翡翠台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=8
+华丽翡翠台[1280x720],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=9
+明珠台[1280x720],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=10
+J2台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=11
+星河台[1280x720],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=12
+ViuTV[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=13
+Now新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=15
+HOY综合台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=17
+HOY财经台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=16
+HOY资讯台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=18
+HOY18台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=4
+港台电视31[1280x720],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=19
+港台电视32[1280x720],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=20
+中天新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=21
+东森新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=22
+东森财经新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=23
+寰宇新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=24
+寰宇新闻台湾台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=25
+台视新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=26
+中视新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=27
+华视新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=28
+TVBS新闻台[1280x720],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=29
+三立新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=30
+三立iNEWS[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=31
+镜电视新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=32
+壹新闻[1280x720],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=33
+公视新闻[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=34
+民视新闻台[1920x1080],http://hls.666888999.gay/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=35
 
 
 广东省台,#genre#
