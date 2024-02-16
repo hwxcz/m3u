@@ -1993,7 +1993,7 @@ CCTV17,http://124.231.213.74:9999/tsfile/live/0019_1.m3u8?key=txiptv
 
 
 
-山西酒店源：
+山西酒店源,#genre#
 
 CCTV1-综合,http://171.124.143.248:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -2081,7 +2081,7 @@ CCTV15-音乐,http://171.124.143.248:9901/tsfile/live/0015_1.m3u8?key=txiptv&pla
 
 
 
-上海酒店源：
+上海酒店源,#genre#
 
 CCTV1-综合,http://110.7.128.26:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -2275,7 +2275,7 @@ BTV卡酷少儿,http://101.224.232.228:9901/tsfile/live/faacts/1002_1.m3u8?key=t
 
 内蒙古卫视,http://101.224.232.228:9901/tsfile/live/faacts/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 
-山东酒店源：
+山东酒店源#genre#
 
 CCTV1-综合,http://182.46.196.231:9901/tsfile/live/0001_1.m3u8
 
@@ -2361,7 +2361,7 @@ CHC动作电影,http://182.46.196.231:9901/tsfile/live/1011_1.m3u8
 
 CHC高清电影,http://182.46.196.231:9901/tsfile/live/1012_1.m3u8
 
-河北酒店源：
+河北酒店源,#genre#
 
 东方卫视,http://101.224.232.228:9901/tsfile/live/0107_1.m3u8?key=txiptv
 
@@ -2485,7 +2485,7 @@ BTV卡酷少儿,http://101.224.232.228:9901/tsfile/live/1002_1.m3u8?key=txiptv
 
 
 
-山东酒店源：
+山东酒店源,#genre#
 
 CCTV1-综合,http://110.181.233.76:9901/tsfile/live/0001_1.m3u8?key=txiptv
 
@@ -3166,7 +3166,7 @@ GRTN文化,http://8.217.90.28:9999/触电.php?id=gdwh
 
 
 
-📷直播中国,#genre#
+直播中国,#genre#
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 湖南张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
@@ -3334,8 +3334,57 @@ GRTN文化,http://8.217.90.28:9999/触电.php?id=gdwh
 
 
 
-体育频道,#genre#
-广东体育,http://116.23.137.190:4022/udp/239.77.0.168:5146
+广东频道,#genre#
+
+广东卫视,http://123.189.36.216:9901/tsfile/live/1146_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://123.189.36.241:9901/tsfile/live/1146_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://116.21.121.116:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://119.146.177.214:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://119.146.177.214:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://119.146.177.214:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://121.33.239.242:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://119.146.177.214:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://119.146.177.214:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://119.146.177.214:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://61.141.202.118:9901/tsfile/live/0125_3.m3u8?key=txiptv&playlive=0&authid=0
+广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://218.17.205.210:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+影视,http://61.153.215.190:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://223.75.123.222:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
+快乐垂钓,http://113.195.13.183:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=0
+快乐垂钓,http://183.94.212.30:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://58.19.252.68:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐购,http://113.245.217.50:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+怀化公共,http://113.245.217.50:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+怀化新闻综合,http://113.245.217.50:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+怀旧剧场,http://113.195.13.183:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=0
+文化精品,http://113.195.13.183:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=0&authid=0
+新动漫,http://123.189.36.216:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+新动漫,http://123.189.36.241:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+新动漫,http://60.213.92.38:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+新动漫,http://113.195.13.183:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
+新闻,http://171.8.138.78:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻综合,http://180.158.146.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻综合,http://61.170.164.195:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻综合,http://180.164.89.43:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻综合,http://180.167.104.105:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+曲周新闻,http://123.182.211.98:8088/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+朝阳融媒,http://123.118.53.89:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+枫叶,http://180.167.104.105:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+梨园,http://171.8.138.78:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+梨园,http://123.182.211.98:8088/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+梨园,http://113.195.13.183:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
+欢笑剧场,http://113.195.13.183:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+武侠剧场,http://60.213.92.38:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+武术世界,http://113.195.13.183:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
+武汉教育,http://59.173.243.210:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+民生,http://171.8.138.78:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏,http://123.189.36.216:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏,http://123.189.36.241:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏体育休闲,http://221.226.4.10:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏体育休闲,http://49.87.154.246:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏公共新闻,http://221.226.4.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 3D大片,#genre#
 生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
