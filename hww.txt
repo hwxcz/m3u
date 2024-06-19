@@ -1,4 +1,4 @@
-
+广东频道,#genre#
 珠江台 高清,http://219.159.194.44:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育 高清,http://219.159.194.44:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东公共 高清,http://219.159.194.44:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
