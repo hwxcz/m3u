@@ -206,6 +206,9 @@ CCTV17-农业农村,http://gouwu.pthv.gitv.tv:91/live/CCTV17hd-8M/live.m3u8
 广东|深圳公共,http://120.76.248.139/live/otvgd/52.m3u8?bt=1300
 
 
+广东珠江经济电台,http://lhttp.qingting.fm/live/1259/64k.mp3
+广东珠江经济台 FM97.4,http://live.xmcdn.com/live/252/64.m3u8
+
 广东频道,#genre#
 珠江频道,http://www.zzlag.top:9087/tsfile/live/1037_1.m3u8?key=txiptv
 广东新闻,http://www.zzlag.top:9087/tsfile/live/1034_1.m3u8?key=txiptv
