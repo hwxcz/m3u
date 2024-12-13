@@ -10,23 +10,6 @@
 
 
 
-广东系列,#genre#
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-
-广东珠江,http://163.177.122.29:9901/tsfile/live/1008_1.m3u8
-
-广东新闻,http://163.177.122.29:9901/tsfile/live/1009_1.m3u8
-
-广东民生,http://163.177.122.29:9901/tsfile/live/1010_1.m3u8
-
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
-
-广东体育,http://163.177.122.29:9901/tsfile/live/1011_1.m3u8
-
-
-广东卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000520/index.m3u8
-
-大湾卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
 
 广东TV,#genre#
@@ -55,6 +38,25 @@
 广东影视,http://116.1.184.117:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
 广东珠江,http://116.1.184.117:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
 
+
+
+广东系列,#genre#
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
+广东珠江,http://163.177.122.29:9901/tsfile/live/1008_1.m3u8
+
+广东新闻,http://163.177.122.29:9901/tsfile/live/1009_1.m3u8
+
+广东民生,http://163.177.122.29:9901/tsfile/live/1010_1.m3u8
+
+广东民生,http://183.11.239.36:808/hls/18/index.m3u8
+
+广东体育,http://163.177.122.29:9901/tsfile/live/1011_1.m3u8
+
+
+广东卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000520/index.m3u8
+
+大湾卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
 
 
