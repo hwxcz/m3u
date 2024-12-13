@@ -1,3 +1,13 @@
+广东频道,#genre#
+珠江,http://119.123.79.35:9600/hls/17/index.m3u8
+
+新闻,http://119.123.79.35:9600/hls/20/index.m3u8
+
+珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
+
+
+
 广东,#genre#
 广东卫视高清,http://www.feizhu1212.top:9999/udp/239.77.1.19:5146
 广东卫视高清,http://www.feizhu1212.top:9999/udp/239.77.1.152:5146
