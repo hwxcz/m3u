@@ -36,7 +36,7 @@
 民生1,http://113.86.205.59:8090/hls/107/index.m3u8
 
 
-民生2,http://113.118.13.45:808/hls/18/index.m3u8
+民生2,http://171.104.194.18:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
