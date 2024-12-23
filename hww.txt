@@ -26,6 +26,8 @@
 
 
 
+新闻3,http://171.104.194.18:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 民生,http://120.238.85.131:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 
