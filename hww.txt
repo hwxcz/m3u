@@ -60,14 +60,17 @@
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
 
-
-
-广东体育,http://171.110.42.2:8181/tsfile/live/1026_1.m3u8
+广东体育,http://222.217.230.192:8181/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
 
-广东体育,http://171.104.194.18:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育1,http://171.110.42.2:8181/tsfile/live/1026_1.m3u8
+
+
+
+
+广东体育2,http://171.104.194.18:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
