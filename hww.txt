@@ -67,7 +67,10 @@
 
 
 
-http://171.104.194.18:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://171.104.194.18:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
 
 
 香港节目,#genre#
