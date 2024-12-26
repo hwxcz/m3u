@@ -26,10 +26,7 @@
 
 
 
-新闻3,http://171.104.194.18:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 
 
 
@@ -45,15 +42,13 @@
 
 
 
-民生3,http://113.101.119.94:808/hls/107/index.m3u8
 
-
-
-广东民生,http://171.110.42.2:8181/tsfile/live/1020_1.m3u8
 
 
 
 广东卫视HD,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1592898240_-1957872936/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=263541274&timezone=UTC&mtv_session=d190c97b4980b8b8fc8fe749d33c4b53&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d7d16b4dab836849b2d69de0c71c0881
+
+
 
 广东卫视HD2,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1593177896_517539519/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=263541274&timezone=UTC&mtv_session=4d4e96518e2e6558846eec1f7e8cb4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cbba4b3db62cb6fb348d495ad003a2c8
 
