@@ -83,7 +83,7 @@
 广东卫视HD2,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1593177896_517539519/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=263541274&timezone=UTC&mtv_session=4d4e96518e2e6558846eec1f7e8cb4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cbba4b3db62cb6fb348d495ad003a2c8
 
 
-
+广东卫视,http://182.46.8.141:8018/hls/57/index.m3u
 
 
 广东卫视,http://223.105.252.8/PLTV/4/224/3221227445/index.m3u8
@@ -97,6 +97,7 @@
 
 
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
 
 
@@ -130,6 +131,15 @@
 
 
 广东体育,http://171.110.42.2:8181/tsfile/live/1026_1.m3u8
+
+
+
+
+凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+
+凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+
+凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
 
 
