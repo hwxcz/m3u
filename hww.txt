@@ -16,10 +16,9 @@
 广东民生,http://116.1.184.67:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-广东影视,http://mzitv.cn:32/tsfile/live/1010_1.m3u8
 
 
-
+广东影视,http://116.1.184.67:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
