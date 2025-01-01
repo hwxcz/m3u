@@ -38,13 +38,11 @@
 
 
 
-广东卫视
-http://z.b.bkpcp.top/m.php?id=gdws$订阅源-1920x1080
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$订阅源-1920x1080
 
 
 
-香港卫视
-http://anren.live/HK/BSJDUFpB.m3u8$订阅源
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$订阅源
 
 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
@@ -68,13 +66,12 @@ http://anren.live/HK/BSJDUFpB.m3u8$订阅源
 
 
 
-广东新闻,http://116.1.184.67:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻,http://116.1.184.67:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
 
-
-广东民生,http://116.1.184.67:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+民生,http://116.1.184.67:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
