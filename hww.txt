@@ -1,4 +1,7 @@
 广东系列,#genre#
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
+
 珠江1,http://119.123.79.35:9600/hls/17/index.m3u8
 
 珠江2,http://171.38.65.171:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
