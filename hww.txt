@@ -45,8 +45,8 @@
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$订阅源-1920x1080
 
 
+大湾区卫视,http://119.125.134.232:9901/tsfile/live/1026_1.m3u8
 
-香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$订阅源
 
 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
