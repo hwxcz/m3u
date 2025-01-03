@@ -1,7 +1,7 @@
 广东系列,#genre#
 珠江1,http://119.123.79.35:9600/hls/17/index.m3u8
 
-
+珠江2,http://171.38.65.171:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 
 珠江3,http://14.212.185.71:9901/tsfile/live/1000_1.m3u8
 
