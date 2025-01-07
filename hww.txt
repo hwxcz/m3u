@@ -25,6 +25,7 @@
 
 新闻1,http://14.212.185.71:9901/tsfile/live/1001_1.m3u8
 
+
 新闻2,http://119.123.79.35:9600/hls/20/index.m3u8
 
 
@@ -41,12 +42,15 @@
 
 
 
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$订阅源-1920x1080
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 
 
 
 
 湾区卫视,http://119.123.79.35:9600/hls/23/index.m3u8
+
+
+广东体育,http://113.101.119.26:808/hls/108/index.m3u8
 
 
 
