@@ -147,6 +147,16 @@
 
 
 
+佛山综合,http://106.53.99.30/dl/fstv.php?id=fszh
+佛山影视,http://106.53.99.30/dl/fstv.php?id=fsys
+佛山公共,http://106.53.99.30/dl/fstv.php?id=fsgg
+佛山南海,http://106.53.99.30/dl/fstv.php?id=fsnh
+佛山顺德,http://106.53.99.30/dl/fstv.php?id=fssd
+佛山高明,http://106.53.99.30/dl/fstv.php?id=fsgm
+佛山三水,http://106.53.99.30/dl/fstv.php?id=fsss
+
+
+
 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 
