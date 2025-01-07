@@ -81,29 +81,28 @@
 
 
 广东荔枝,#genre#
-广东珠江,http://z.b.bkpcp.top/m.php?id=gdzj
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
-广东新闻,http://z.b.bkpcp.top/m.php?id=gdxw
+广东新闻,http://php.jdshipin.com/TVOD/iptv.php?id=gdxw
 
-广东民生,http://z.b.bkpcp.top/m.php?id=gdms
-
-
-广东体育,http://z.b.bkpcp.top/m.php?id=gdty
+广东民生,http://php.jdshipin.com/TVOD/iptv.php?id=gdms
 
 
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
-大湾区卫视,http://z.b.bkpcp.top/m.php?id=nfw
+广东卫视,http://php.jdshipin.com/TVOD/iptv.php?id=gdws
 
 
-广东少儿,http://z.b.bkpcp.top/m.php?id=gdse
+大湾区卫视,http://php.jdshipin.com/TVOD/iptv.php?id
+
+广东少儿,http://php.jdshipin.com/TVOD/iptv.php?idd=gdse
 
 
-嘉佳卡通,http://z.b.bkpcp.top/m.php?id=jjkt
+嘉佳卡通,http://php.jdshipin.com/TVOD/iptv.php?id=jjkt
 
 
-广东影视,http://z.b.bkpcp.top/m.php?id=gdys
+广东影视,http://php.jdshipin.com/TVOD/iptv.php?id=gdys
 
 
 
