@@ -1,8 +1,12 @@
 广东系列,#genre#
-广东珠江,http://113.101.119.26:808/hls/105/index.m3u8
-
-
 珠江1,http://119.123.79.35:9600/hls/17/index.m3u8
+新闻1,http://119.123.79.35:9600/hls/20/index.m3u8
+民生1,http://113.86.205.59:8090/hls/107/index.m3u8
+湾区卫视,http://119.123.79.35:9600/hls/23/index.m3u8
+广东影视,http://119.123.79.35:9600/hls/25/index.m3u8
+广东少儿,http://119.123.79.35:9600/hls/26/index.m3u8
+嘉琪卡通,http://119.123.79.35:9600/hls/27/index.m3u8
+
 
 珠江2,http://171.38.65.171:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -14,31 +18,16 @@
 珠江5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
 
 
-
-
+广东珠江,http://113.101.119.26:808/hls/105/index.m3u8
 
 
 新闻,http://113.101.119.62:808/hls/106/index.m3u8
 
 
-
-
-新闻1,http://14.212.185.71:9901/tsfile/live/1001_1.m3u8
-
-
-新闻2,http://119.123.79.35:9600/hls/20/index.m3u8
-
-
-
-
+新闻2,http://14.212.185.71:9901/tsfile/live/1001_1.m3u8
 
 
 民生,http://120.238.85.131:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
-
-
-
-民生1,http://113.86.205.59:8090/hls/107/index.m3u8
-
 
 
 
@@ -47,27 +36,11 @@
 
 
 
-
-
-
-湾区卫视,http://119.123.79.35:9600/hls/23/index.m3u8
-
-
 广东体育,http://113.101.119.26:808/hls/108/index.m3u8
 
 
 
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
-
-
-
-广东影视,http://119.123.79.35:9600/hls/25/index.m3u8
-
-
-广东少儿,http://119.123.79.35:9600/hls/26/index.m3u8
-
-
-嘉琪卡通,http://119.123.79.35:9600/hls/27/index.m3u8
 
 
 
@@ -80,29 +53,27 @@
 
 
 
+
+
+
 广东荔枝,#genre#
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江,http://z.b.bkpcp.top/m.php?id=gdzj
 
-广东新闻,http://php.jdshipin.com/TVOD/iptv.php?id=gdxw
+广东新闻,http://z.b.bkpcp.top/m.php?id=gdxw
 
-广东民生,http://php.jdshipin.com/TVOD/iptv.php?id=gdms
+广东民生,http://z.b.bkpcp.top/m.php?id=gdms
 
+广东体育,http://z.b.bkpcp.top/m.php?id=gdty
 
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 
+大湾区卫视,http://z.b.bkpcp.top/m.php?id=nfw
 
-广东卫视,http://php.jdshipin.com/TVOD/iptv.php?id=gdws
+广东少儿,http://z.b.bkpcp.top/m.php?id=gdse
 
+嘉佳卡通,http://z.b.bkpcp.top/m.php?id=jjkt
 
-大湾区卫视,http://php.jdshipin.com/TVOD/iptv.php?id
-
-广东少儿,http://php.jdshipin.com/TVOD/iptv.php?idd=gdse
-
-
-嘉佳卡通,http://php.jdshipin.com/TVOD/iptv.php?id=jjkt
-
-
-广东影视,http://php.jdshipin.com/TVOD/iptv.php?id=gdys
+广东影视,http://z.b.bkpcp.top/m.php?id=gdys
 
 
 
@@ -113,37 +84,16 @@
 
 广东珠江,http://116.1.184.67:8181/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
-
-
 新闻,http://116.1.184.67:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
 
 民生,http://116.1.184.67:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
-
 广东影视,http://116.1.184.67:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-
 
 广东卫视HD,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1592898240_-1957872936/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=263541274&timezone=UTC&mtv_session=d190c97b4980b8b8fc8fe749d33c4b53&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d7d16b4dab836849b2d69de0c71c0881
 
 
-
 广东卫视HD2,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1593177896_517539519/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=263541274&timezone=UTC&mtv_session=4d4e96518e2e6558846eec1f7e8cb4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cbba4b3db62cb6fb348d495ad003a2c8
-
-
-
-
-
 
 
 
@@ -154,9 +104,7 @@
 
 
 
-
 大湾区卫视,http://119.125.134.232:9901/tsfile/live/1026_1.m3u8
-
 
 
 
@@ -166,7 +114,6 @@
 
 
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-
 
 
 
