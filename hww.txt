@@ -57,6 +57,8 @@
 广东影视,http://119.123.79.35:9600/hls/25/index.m3u8
 
 
+广东少儿,http://119.123.79.35:9600/hls/25/index.m3u8
+
 
 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
