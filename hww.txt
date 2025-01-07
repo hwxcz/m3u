@@ -42,6 +42,9 @@
 
 
 
+广东卫视频道,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
+
+
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 
 
