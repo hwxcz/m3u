@@ -311,13 +311,12 @@ CCTV-17 农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 
 贺新年歌,#genre#
-挥别旧岁(无声),http://em.21dtv.com/songs/60089698.mkv
+新年新喜新气象,http://em.21dtv.com/songs/60050902.mkv
 欢喜过新年,http://em.21dtv.com/songs/60021780.mkv
 贺新年,http://em.21dtv.com/songs/60020479.mkv
 喜乐扬起新年到,http://em.21dtv.com/songs/60048156.mkv
 新年颂,http://em.21dtv.com/songs/60050900.mkv
 新年行大运,http://em.21dtv.com/songs/60050874.mkv
-新年新喜新气象,http://em.21dtv.com/songs/60050902.mkv
 新年喜洋洋,http://em.21dtv.com/songs/60050901.mkv
 嘻嘻哈哈过新年,http://em.21dtv.com/songs/60078511.mkv
 嘻嘻哈哈接财神,http://em.21dtv.com/songs/60048056.mkv
@@ -354,7 +353,7 @@ CCTV-17 农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 财神来到我家门,http://em.21dtv.com/songs/60086480.mkv
 八仙齐拜年,http://em.21dtv.com/songs/60071764.mkv
 新年好(演唱会),http://em.21dtv.com/songs/60050876.mkv
-
+挥别旧岁(无声),http://em.21dtv.com/songs/60089698.mkv
 
 
 
