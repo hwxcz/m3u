@@ -91,6 +91,66 @@
 
 
 
+广东有线,#genre#
+广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
+
+广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111
+
+广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
+
+广东民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111
+
+广电民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111
+
+广东新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.5:11111
+
+广东新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.155:11111
+
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
+
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
+
+广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.95:11111
+
+广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.96:11111
+
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
+
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111
+
+广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111
+
+广东少儿,http://qjrhc.jydjd.top:2911/udp/224.1.100.156:11111
+
+广东少儿,http://qjrhc.jydjd.top:2911/udp/224.1.100.9:11111
+
+广东影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.154:11111
+
+广东影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.11:11111
+
+星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
+
+纪实科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.32:11111
+
+广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.158:11111
+
+广东岭南戏曲,http://qjrhc.jydjd.top:2911/udp/224.1.100.157:11111
+
+
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
+
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.122:11111
+
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111
+
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
+
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.124:11111
+
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111
+
+凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
+
 
 
 
