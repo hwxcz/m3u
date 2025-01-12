@@ -38,7 +38,7 @@
 
 
 
-广东体育,http://113.101.119.26:808/hls/108/index.m3u8
+广东体育a,http://113.101.119.26:808/hls/108/index.m3u8
 
 
 
@@ -75,19 +75,19 @@
 
 
 
-广东体育,http://222.217.230.192:8181/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育b,http://222.217.230.192:8181/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
 
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育c,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 
 
 
 广东体育2,http://113.101.119.26:808/hls/108/index.m3u8
 
 
-广东体育,http://222.218.159.183:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育d,http://222.218.159.183:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
