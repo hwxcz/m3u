@@ -13,7 +13,7 @@
 嘉琪卡通,http://119.123.79.35:9600/hls/27/index.m3u8
 
 
-珠江2,http://171.104.192.157:8181/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+珠江2,http://119.123.77.41:9600/hls/17/index.m3u8
 
 珠江3,http://14.212.185.71:9901/tsfile/live/1000_1.m3u8
 
