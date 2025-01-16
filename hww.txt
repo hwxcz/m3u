@@ -3,7 +3,7 @@
 新闻1,http://119.123.79.35:9600/hls/20/index.m3u8
 民生,http://113.101.119.26:808/hls/107/index.m3u8
 民生1,http://113.86.205.59:8090/hls/107/index.m3u8
-体育1,http://113.101.119.26:808/hls/108/index.m3u8
+体育1,http://120.84.121.69:808/hls/170/index.m3u8
 
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 
