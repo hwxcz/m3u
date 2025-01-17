@@ -5,8 +5,6 @@
 民生1,http://113.86.205.59:8090/hls/107/index.m3u8
 体育1,http://120.84.121.69:808/hls/170/index.m3u8
 
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-
 湾区卫视,http://119.123.79.35:9600/hls/23/index.m3u8
 广东影视,http://119.123.79.35:9600/hls/25/index.m3u8
 广东少儿,http://119.123.79.35:9600/hls/26/index.m3u8
@@ -28,26 +26,17 @@
 
 新闻,http://113.101.119.62:808/hls/106/index.m3u8
 
-
 新闻2,http://119.123.77.41:9600/hls/20/index.m3u8
-
 
 民生,http://120.238.85.131:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 
-
-
 广东卫视频道,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
-
-
-
 
 广东体育a,http://113.101.119.26:808/hls/108/index.m3u8
 
-
-
 大湾区卫视,http://119.123.77.41:9600/hls/23/index.m3u8
 
-
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 
