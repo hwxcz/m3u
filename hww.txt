@@ -1,14 +1,5 @@
 广东频道,#genre#
 珠江1,http://119.123.79.35:9600/hls/17/index.m3u8
-新闻1,http://119.123.79.35:9600/hls/20/index.m3u8
-民生,http://113.101.119.26:808/hls/107/index.m3u8
-民生1,http://113.86.205.59:8090/hls/107/index.m3u8
-体育1,http://120.84.121.69:808/hls/170/index.m3u8
-
-湾区卫视,http://119.123.79.35:9600/hls/23/index.m3u8
-广东影视,http://119.123.79.35:9600/hls/25/index.m3u8
-广东少儿,http://119.123.79.35:9600/hls/26/index.m3u8
-嘉琪卡通,http://119.123.79.35:9600/hls/27/index.m3u8
 
 
 珠江2,http://119.123.77.41:9600/hls/17/index.m3u8
@@ -16,20 +7,55 @@
 珠江3,http://116.1.184.190:8181/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-
-
 广东珠江,http://113.101.119.26:808/hls/105/index.m3u8
-
 
 新闻,http://113.101.119.62:808/hls/106/index.m3u8
 
-新闻2,http://119.123.77.41:9600/hls/20/index.m3u8
+新闻1,http://119.123.77.41:9600/hls/20/index.m3u8
 
-民生,http://120.238.85.131:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+新闻2,http://119.123.79.35:9600/hls/20/index.m3u8
+
+
+
+民生,http://113.101.119.26:808/hls/107/index.m3u8
+
+
+民生1,http://120.238.85.131:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+
+民生2,http://113.86.205.59:8090/hls/107/index.m3u8
+
+
+体育1,http://120.84.121.69:808/hls/170/index.m3u8
+
+
+广东体育a,http://113.101.119.26:808/hls/108/index.m3u8
+
+
+广东体育b,http://116.1.184.190:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+广东体育c,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+
+广东体育d,http://113.101.119.26:808/hls/108/index.m3u8
+
+
+
+湾区卫视,http://119.123.79.35:9600/hls/23/index.m3u8
+广东影视,http://119.123.79.35:9600/hls/25/index.m3u8
+广东少儿,http://119.123.79.35:9600/hls/26/index.m3u8
+嘉琪卡通,http://119.123.79.35:9600/hls/27/index.m3u8
+
+
+
+
+
+
+
+
 
 广东卫视频道,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
 
-广东体育a,http://113.101.119.26:808/hls/108/index.m3u8
+
 
 大湾区卫视,http://119.123.77.41:9600/hls/23/index.m3u8
 
@@ -86,19 +112,10 @@
 
 
 
-广东体育b,http://222.217.230.192:8181/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
 
-广东体育c,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-
-
-
-广东体育2,http://113.101.119.26:808/hls/108/index.m3u8
-
-
-广东体育d,http://222.218.159.183:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
