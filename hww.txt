@@ -1,13 +1,13 @@
 广东频道,#genre#
 珠江1,http://119.123.79.35:9600/hls/17/index.m3u8
 
-
 珠江2,http://119.123.77.41:9600/hls/17/index.m3u8
 
 珠江3,http://116.1.184.190:8181/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-广东珠江,http://113.101.119.26:808/hls/105/index.m3u8
+珠江4,http://113.101.119.62:808/hls/105/index.m3u8
+
 
 新闻,http://113.101.119.62:808/hls/106/index.m3u8
 
@@ -48,12 +48,18 @@
 
 
 
+广东珠江,http://222.128.55.152:9080/live/gdzj.m3u8
+广东民生,http://222.128.55.152:9080/live/gdms.m3u8
+广东体育,http://222.128.55.152:9080/live/gdty.m3u8
+广东影视,http://222.128.55.152:9080/live/gdys.m3u8
+大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
+翡翠台1,http://222.128.55.152:9080/live/gdfc.m3u8
 
 
 
 
 
-广东卫视频道,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
+卫视频道,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
 
 
 
@@ -67,11 +73,11 @@
 
 凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
-翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+翡翠台2,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 
 
 
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台3,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -83,13 +89,8 @@
 鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 
 
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-
-
 
 
 
