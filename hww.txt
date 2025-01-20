@@ -1,5 +1,5 @@
 广东频道,#genre#
-
+珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
 珠江1,http://119.123.79.35:9600/hls/17/index.m3u8
 
@@ -28,6 +28,11 @@
 民生1,http://120.238.85.131:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 
 民生2,http://113.86.205.59:8090/hls/107/index.m3u8
+
+
+
+
+体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 
 体育1,http://120.84.121.69:808/hls/170/index.m3u8
