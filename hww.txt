@@ -104,6 +104,12 @@
 
 
 
+凤凰资讯1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhzixun5s&ace
+凤凰中文1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhchinese5s&ace
+凤凰香港1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhhongkong5s&ace
+
+
+
 
 佛山综合,http://106.53.99.30/dl/fstv.php?id=fszh
 佛山影视,http://106.53.99.30/dl/fstv.php?id=fsys
