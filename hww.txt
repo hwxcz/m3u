@@ -76,6 +76,8 @@
 大湾区卫视,http://119.123.77.41:9600/hls/23/index.m3u8
 
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+广东卫视,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_GUANGDONG-HQ&ace
+
 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 
