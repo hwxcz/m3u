@@ -11,7 +11,7 @@
 珠江3,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 
 
-珠江4,http://113.101.119.62:808/hls/105/index.m3u8
+珠江4,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 
 新闻,http://113.101.119.62:808/hls/106/index.m3u8
