@@ -113,13 +113,15 @@
 
 
 
-佛山综合,http://106.53.99.30/dl/fstv.php?id=fszh
-佛山影视,http://106.53.99.30/dl/fstv.php?id=fsys
-佛山公共,http://106.53.99.30/dl/fstv.php?id=fsgg
-佛山南海,http://106.53.99.30/dl/fstv.php?id=fsnh
-佛山顺德,http://106.53.99.30/dl/fstv.php?id=fssd
-佛山高明,http://106.53.99.30/dl/fstv.php?id=fsgm
-佛山三水,http://106.53.99.30/dl/fstv.php?id=fsss
+佛山综合,http://125.89.163.44:8888/udp/239.253.43.57:5146
+佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
+佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
+佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
+佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
+佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
 
 
 
@@ -227,13 +229,13 @@
 
 广东卫视,http://14.19.151.0:9900/udp/239.77.0.166:5146
 
-广东珠江,http://14.19.151.0:9900/udp/239.77.0.1:5146
+广东珠江,http://125.89.163.44:8888/udp/239.77.0.1:5146
 
-广东珠江,http://14.19.151.0:9900/udp/239.77.0.3:5146
+广东珠江,http://125.89.163.44:8888/udp/239.77.0.3:5146
 
-广东珠江,http://14.19.151.0:9900/udp/239.77.0.114:5146
+广东珠江,http://125.89.163.44:8888/udp/239.77.0.114:5146
 
-广东珠江,http://14.19.151.0:9900/udp/239.77.1.94:5146
+广东珠江,http://125.89.163.44:8888/udp/239.77.1.94:5146
 
 广东新闻,http://14.19.151.0:9900/udp/239.77.0.4:5146
 
