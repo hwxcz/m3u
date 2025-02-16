@@ -2,6 +2,22 @@
 珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
 
+广东珠江高清,http://115.46.95.194:8181/tsfile/live/1000_1.m3u8
+广东新闻高清,http://115.46.95.194:8181/tsfile/live/1005_1.m3u8
+广东公共高清,http://115.46.95.194:8181/tsfile/live/1006_1.m3u8
+广东体育,http://115.46.95.194:8181/tsfile/live/1009_1.m3u8
+南方卫视高清,http://115.46.95.194:8181/tsfile/live/1003_1.m3u8
+广东卫视,http://60.172.130.146:352/tsfile/live/0125_1.m3u8
+广东卫视,http://60.209.125.254:352/tsfile/live/0125_1.m3u8
+广东嘉佳卡通,http://115.46.95.194:8181/tsfile/live/1004_1.m3u8
+广东少儿高清,http://115.46.95.194:8181/tsfile/live/1008_1.m3u8
+广东综艺 4K,http://115.46.95.194:8181/tsfile/live/faacts/1010_1.m3u8?ace
+广东影视高清,http://115.46.95.194:8181/tsfile/live/1007_1.m3u8?ace
+岭南戏曲高清,http://115.46.95.194:8181/tsfile/live/1002_1.m3u8?ace
+广东科教高清,http://115.46.95.194:8181/tsfile/live/1001_1.m3u8?ace
+
+
+
 广东珠江,http://183.255.10.76:6610/200000001898/460000089800010091/1.m3u8?IASHttpSessionId=ACE
 
 珠江1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
@@ -238,22 +254,9 @@
 
 
 
-广东卫视,http://60.172.130.146:352/tsfile/live/0125_1.m3u8?ace
-
-广东卫视,http://60.209.125.254:352/tsfile/live/0125_1.m3u8?ace
 
 
-珠江台高清,http://115.46.95.194:8181/tsfile/live/1000_1.m3u8?ace
-广东科教高清,http://115.46.95.194:8181/tsfile/live/1001_1.m3u8?ace
-南方卫视高清,http://115.46.95.194:8181/tsfile/live/1003_1.m3u8?ace
-广东综艺 4K,http://115.46.95.194:8181/tsfile/live/faacts/1010_1.m3u8?ace
-广东影视高清,http://115.46.95.194:8181/tsfile/live/1007_1.m3u8?ace
-岭南戏曲高清,http://115.46.95.194:8181/tsfile/live/1002_1.m3u8?ace
-广东嘉佳卡通,http://115.46.95.194:8181/tsfile/live/1004_1.m3u8?ace
-广东新闻高清,http://115.46.95.194:8181/tsfile/live/1005_1.m3u8?ace
-广东公共高清,http://115.46.95.194:8181/tsfile/live/1006_1.m3u8?ace
-广东少儿高清,http://115.46.95.194:8181/tsfile/live/1008_1.m3u8?ace
-广东体育,http://115.46.95.194:8181/tsfile/live/1009_1.m3u8?ace
+
 
 
 
