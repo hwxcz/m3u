@@ -468,7 +468,21 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 
 央视频道,#genre#
-CCTV1综合,http://60.172.130.146:352/tsfile/live/0001_1.m3u8?aceCCTV2财经,http://60.172.130.146:352/tsfile/live/0002_1.m3u8?aceCCTV3综艺,http://60.172.130.146:352/tsfile/live/0003_1.m3u8?aceCCTV4国际,http://60.172.130.146:352/tsfile/live/0004_1.m3u8?aceCCTV5体育,http://60.172.130.146:352/tsfile/live/0005_1.m3u8?aceCCTV6电影,http://60.172.130.146:352/tsfile/live/0006_1.m3u8?aceCCTV7军农,http://60.172.130.146:352/tsfile/live/0007_1.m3u8?aceCCTV8电视剧,http://60.172.130.146:352/tsfile/live/0008_1.m3u8?aceCCTV9纪录,http://60.172.130.146:352/tsfile/live/0009_1.m3u8?aceCCTV10科教,http://60.172.130.146:352/tsfile/live/0010_1.m3u8?aceCCTV11戏曲,http://60.172.130.146:352/tsfile/live/0013_1.m3u8?aceCCTV12社会与法,http://60.172.130.146:352/tsfile/live/0014_1.m3u8?aceCCTV13新闻,http://60.172.130.146:352/tsfile/live/0015_1.m3u8?aceCCTV14少儿,http://60.172.130.146:352/tsfile/live/0130_1.m3u8?aceCCTV15音乐,http://60.172.130.146:352/tsfile/live/0122_1.m3u8?ace
+CCTV1综合,http://60.172.130.146:352/tsfile/live/0001_1.m3u8?ace
+CCTV2财经,http://60.172.130.146:352/tsfile/live/0002_1.m3u8?ace
+CCTV3综艺,http://60.172.130.146:352/tsfile/live/0003_1.m3u8?ace
+CCTV4国际,http://60.172.130.146:352/tsfile/live/0004_1.m3u8?ace
+CCTV5体育,http://60.172.130.146:352/tsfile/live/0005_1.m3u8?ace
+CCTV6电影,http://60.172.130.146:352/tsfile/live/0006_1.m3u8?ace
+CCTV7军农,http://60.172.130.146:352/tsfile/live/0007_1.m3u8?ace
+CCTV8电视剧,http://60.172.130.146:352/tsfile/live/0008_1.m3u8?ace
+CCTV9纪录,http://60.172.130.146:352/tsfile/live/0009_1.m3u8?ace
+CCTV10科教,http://60.172.130.146:352/tsfile/live/0010_1.m3u8?ace
+CCTV11戏曲,http://60.172.130.146:352/tsfile/live/0013_1.m3u8?ace
+CCTV12社会与法,http://60.172.130.146:352/tsfile/live/0014_1.m3u8?ace
+CCTV13新闻,http://60.172.130.146:352/tsfile/live/0015_1.m3u8?ace
+CCTV14少儿,http://60.172.130.146:352/tsfile/live/0130_1.m3u8?ace
+CCTV15音乐,http://60.172.130.146:352/tsfile/live/0122_1.m3u8?ace
 
 
 
