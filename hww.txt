@@ -1,4 +1,4 @@
-
+广东频道,#genre#
 珠江1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476221.m3u8
 
 珠江2,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
