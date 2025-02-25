@@ -14,8 +14,7 @@
 珠江4,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 
-珠江5,http://113.101.119.26:808/hls/105/index.m3u8
-
+珠江5,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 
 新闻,http://113.101.119.62:808/hls/106/index.m3u8
 
