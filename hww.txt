@@ -1,8 +1,8 @@
 广东频道,#genre#
 
-广东珠江,http://1panel.137390740.xyz:5000/TVOD/2000000003000000033/hnbblive/index.m3u8?ace
+广东珠江,http://1panel.137390740.xyz:5000/TVOD/2000000003000000033/hnbblive/index.m3u8
 
-广东珠江,http://iptv.992626.xyz/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
+广东珠江,http://iptv.992626.xyz/TVOD/1000000004000011655/ystenlive/index.m3u8
 
 珠江1,http://yaozhenguo.top:5000/TVOD/1000000004000011655/ystenlive/index.m3u8
 
