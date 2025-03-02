@@ -136,6 +136,25 @@
 大湾区卫视,http://119.125.134.232:9901/tsfile/live/1026_1.m3u8
 
 
+
+组播,#genre#
+
+广东卫视高清,http://qjrhc.jydjd.top:2911/udp/239.77.0.84:5146
+广东卫视超清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.166:5146
+广东珠江高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.1:5146
+广东珠江超清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.114:5146
+广东新闻高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.173:5146
+广东民生高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.225:5146
+广东体育高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.112:5146
+广东体育超清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.168:5146
+大湾区卫视高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.215:5146
+
+
+
+
+
+
+
 香港,#genre#
 
 tvb华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
