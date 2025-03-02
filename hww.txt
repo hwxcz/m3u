@@ -45,18 +45,6 @@
 
 
 
-广东大湾区卫视,http://1panel.137390740.xyz:5000/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
-广东大湾区卫视,http://1panel.137390740.xyz:5000/TVOD/1000000002000011619/ystenlive/index.m3u8?ace
-广东嘉佳卡通,http://1panel.137390740.xyz:5000/TVOD/1000000002000025964/ystenlive/index.m3u8?ace
-广东嘉佳卡通,http://1panel.137390740.xyz:5000/TVOD/6000000003000025508/wasusyt/index.m3u8?ace
-广东卫视,http://1panel.137390740.xyz:5000?ace
-广东卫视,http://1panel.137390740.xyz:5000/TVOD/6000000001000031076/wasusyt/index.m3u8?ace
-广东卫视,http://1panel.137390740.xyz:5000/TVOD/1000000001000014176/ystenlive/index.m3u8?ace
-广东卫视,http://1panel.137390740.xyz:5000/TVOD/1000000005000265034/ystenlive/index.m3u8?ace
-广东卫视,http://1panel.137390740.xyz:5000/TVOD/5000000010000030417/bestzb/index.m3u8?ace
-广东卫视,http://1panel.137390740.xyz:5000/TVOD/1000000001000028357/ystenlive/index.m3u8?ace
-
-
 
 
 体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
@@ -76,80 +64,18 @@
 广东体育d,http://113.101.119.26:808/hls/108/index.m3u8
 
 
-广东卫视,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=gdws
-深圳卫视,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=szws
-大湾区卫视,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=dwqws
 
 
-湾区卫视,http://119.123.79.35:9600/hls/23/index.m3u8
-广东影视,http://119.123.79.35:9600/hls/25/index.m3u8
-广东少儿,http://119.123.79.35:9600/hls/26/index.m3u8
-嘉琪卡通,http://119.123.79.35:9600/hls/27/index.m3u8
-
-大湾区卫视,http://183.255.10.86:6610/200000001898/460000089800010108/1.m3u8?IASHttpSessionId=ACE
-
-翡翠台1,http://222.128.55.152:9080/live/gdfc.m3u8
-
-
-卫视频道,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
-
-大湾区卫视,http://183.255.10.86:6610/200000001898/460000089800010108/1.m3u8?IASHttpSessionId=ACE
-
-大湾区卫视,http://119.123.77.41:9600/hls/23/index.m3u8
-
-凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-
-凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-
-凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
-
-翡翠台2,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-
-
-
-翡翠台3,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-
-
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
-
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-
-
-鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-
-
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-广东卫视,http://183.255.10.76:6610/200000001898/460000089800010055/1.m3u8?IASHttpSessionId=ACE
-
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
+佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh 
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys 
+佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg 
+佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111 
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
+佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd 
+佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm 
 佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
 
 大湾区卫视,http://119.125.134.232:9901/tsfile/live/1026_1.m3u8
-
-
-
-组播,#genre#
-
-广东卫视高清,http://qjrhc.jydjd.top:2911/udp/239.77.0.84:5146
-广东卫视超清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.166:5146
-广东珠江高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.1:5146
-广东珠江超清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.114:5146
-广东新闻高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.173:5146
-广东民生高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.225:5146
-广东体育高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.112:5146
-广东体育超清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.168:5146
-大湾区卫视高清,http://http://qjrhc.jydjd.top:2911/udp/239.77.0.215:5146
-
-
 
 
 
