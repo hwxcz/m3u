@@ -1,3 +1,38 @@
+深圳地面波,#genre#
+
+深圳电视剧高清,http://27.46.95.90:800/hls/1457434245/index.m3u8
+深圳财经生活高清,http://27.46.95.90:800/hls/1474429477/index.m3u8
+深圳都市高清,http://27.46.95.90:800/hls/1491258538/index.m3u8
+广东珠江,http://27.46.95.90:800/hls/1414393363/index.m3u8
+广东民生,http://27.46.95.90:800/hls/1397513386/index.m3u8
+广东影视,http://27.46.95.90:800/hls/1411589778/index.m3u8
+广东经济科教,http://27.46.95.90:800/hls/1439912469/index.m3u8
+凤凰香港台,http://27.46.95.90:800/hls/1844726419/index.m3u8
+TVB 翡翠台高清,http://27.46.95.90:800/hls/1789773363/index.m3u8
+TVB 无线新闻台,http://27.46.95.90:800/hls/1832213323/index.m3u8
+TVB 明珠台,http://27.46.95.90:800/hls/1851842729/index.m3u8
+ViuTV,http://27.46.95.90:800/hls/1864291364/index.m3u8
+ViuTV6,http://27.46.95.90:800/hls/1852451724/index.m3u8
+HOYTV,http://27.46.95.90:800/hls/1868454448/index.m3u8
+HOY76,http://27.46.95.90:800/hls/1868314925/index.m3u8
+HOY78,http://27.46.95.90:800/hls/1872445994/index.m3u8
+
+Plus综合,http://43.251.102.18:4000/play/a00k
+Plus综合,http://43.251.102.18:4000/play/a00c
+凤凰香港,http://43.251.102.18:4000/play/a00e
+凤凰香港,http://43.251.102.18:4000/play/a00m
+有线新闻,http://43.251.102.18:4000/play/a004
+无线新闻,http://43.251.102.18:4000/play/a00d
+无线翡翠,http://43.251.102.18:4000/play/a00g
+无线明珠,http://43.251.102.18:4000/play/a00b
+有线综合,http://43.251.102.18:4000/play/a003
+有线赛讯,http://43.251.102.18:4000/play/a002
+ViuTV粤,http://43.251.102.18:4000/play/a00i
+ViuTV英,http://43.251.102.18:4000/play/a00h
+
+
+
+
 广东系列,#genre#
 
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
@@ -51,8 +86,7 @@
 
 广东珠江,https://itv.mininas.cc/TVOD/1000000004000011655/ystenlive/index.m3u8
 
-珠江1,http://yaozhenguo.top:5000/TVOD/1000000004000011655/ystenlive/index.m3u8
-
+珠江1,http://222.128.55.152:9080/live/gdzj.m3u8
 珠江2,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 
 珠江3,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
@@ -61,9 +95,13 @@
 珠江4,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 
-珠江5,http://146.56.175.23:50001/TVOD/1000000004000011655/ystenlive/index.m3u8
+珠江5,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
 
 珠江6,http://222.128.55.152:9080/live/gdzj.m3u8
+
+珠江7,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv
+
+
 
 新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 
