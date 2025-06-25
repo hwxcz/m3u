@@ -42,45 +42,6 @@
 
 
 
-香港,#genre#
-鳳凰香港,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=hkphoenix_twn
-
-鳳凰資訊,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=phoenixinfo_hd
-
-鳳凰衛視,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=phoenixtv_hd
-
-鳳凰資訊,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=phoenixinfo_hd
-
-Viu6,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=viusix_twn
-
-
-翡翠台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=jade_twn
-
-翡翠台 backup,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=jade_mike
-
-Tvbmagic,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=Tvbmagic
-
-iNews 新聞台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=inews_twn
-J
- 2,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=j2_twn
- 
-J2 備用,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=j2_hkdavid
-
-珍珠台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=pearl_twn
-
-珍珠台  備用,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=pearl_hkdavid
-
-無線財經資訊台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=tvbcaijing_twn
-
-TVB 星河,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=tvbxinhe_twn
-
-RHK 31,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=rhk31_twn
-
-VIUTV1,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=viu1_twn
-
-RHK 32,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=rhk32_twn
-
-Viu TV 69,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=viutv69_hkdavid
 
 
 
