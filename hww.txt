@@ -1,245 +1,358 @@
-广东频道,#genre#
+广东系列A,#grnre#
 
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东卫视,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/43
 
-珠江1,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东卫视,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/43
 
-珠江2,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/44
 
+广东珠江,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/44
 
-新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.5:11111
+广东新闻,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/45
 
-新闻1http://113.75.191.150:2086/udp/239.77.0.4:5146
+广东新闻,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/45
 
-新闻2,http://14.117.234.110:9000/udp/239.77.0.173:5146
+广东民生,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/48
 
+广东民生,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/48
 
-新闻3,http://113.101.119.26:808/hls/106/index.m3u8
+广东体育,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/47
 
+广东体育,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/47
 
-民生,http://113.101.119.26:808/hls/107/index.m3u8
+大湾区卫视,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/51
 
+大湾区卫视,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/51
 
-民生1,http://120.238.85.131:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+大湾区卫视（海外）,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/46
 
-民生2,http://113.86.205.59:8090/hls/107/index.m3u8
+大湾区卫视（海外）,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/46
 
+广东少儿,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/54
 
-民生3,http://113.101.119.26:808/hls/107/index.m3u8
+广东少儿,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/54
 
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+嘉佳卡通,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/66
 
-咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+嘉佳卡通,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/66
 
-咪咕体育1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+广东移动,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/74
 
-
-咪咕体育a,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
-
-
-咪咕体育b,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-
-广东体育c,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-
-广东体育d,http://113.101.119.26:808/hls/108/index.m3u8
-
-
-
-
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh 
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys 
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg 
-佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111 
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd 
-佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm 
-佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
-
-大湾区卫视,http://119.125.134.232:9901/tsfile/live/1026_1.m3u8
-
-
-
-广东有线,#genre#
-广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
-
-广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111
-
-广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-
-广东民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111
-
-广电民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111
-
-广东新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.5:11111
-
-广东新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.155:11111
-
-广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
-
-广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
-
-广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.95:11111
-
-广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.96:11111
-
-大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
-
-大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111
-
-广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111
-
-广东少儿,http://qjrhc.jydjd.top:2911/udp/224.1.100.156:11111
-
-广东少儿,http://qjrhc.jydjd.top:2911/udp/224.1.100.9:11111
-
-广东影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.154:11111
-
-广东影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.11:11111
-
-星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
-
-纪实科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.32:11111
-
-广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.158:11111
-
-广东岭南戏曲,http://qjrhc.jydjd.top:2911/udp/224.1.100.157:11111
-
-
-
-🇨🇳央视频道,#genre#
-CCTV-01频道,http://39.165.196.149:9003//hls/1/index.m3u8
-CCTV-02频道,http://39.165.196.149:9003//hls/2/index.m3u8
-CCTV-03频道,http://39.165.196.149:9003//hls/3/index.m3u8
-CCTV-04频道,http://39.165.196.149:9003//hls/4/index.m3u8
-CCTV-05频道,http://39.165.196.149:9003//hls/5/index.m3u8
-CCTV-5+频道,http://39.165.196.149:9003//hls/16/index.m3u8
-CCTV-06频道,http://39.165.196.149:9003//hls/6/index.m3u8
-CCTV-07频道,http://39.165.196.149:9003//hls/7/index.m3u8
-CCTV-08频道,http://39.165.196.149:9003//hls/8/index.m3u8
-CCTV-09频道,http://39.165.196.149:9003//hls/9/index.m3u8
-CCTV-10频道,http://39.165.196.149:9003//hls/10/index.m3u8
-CCTV-11频道,http://39.165.196.149:9003//hls/11/index.m3u8
-CCTV-12频道,http://39.165.196.149:9003//hls/12/index.m3u8
-CCTV-13频道,http://39.165.196.149:9003//hls/13/index.m3u8
-CCTV-14频道,http://39.165.196.149:9003//hls/14/index.m3u8
-CCTV-15频道,http://39.165.196.149:9003//hls/15/index.m3u8
-CCTV-01频道,http://
-
+广东移动,http://A/ku9/js/ku9js.js?id=https://www.gdtv.cn/tvChannelDetail/74
 
 
 
 香港,#genre#
+鳳凰香港,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=hkphoenix_twn
 
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-珠江台,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+鳳凰資訊,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=phoenixinfo_hd
 
-tvb华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
-翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-TVB PLUS,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
-HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
-澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
-澳视卫星,http://cdn.132.us.kg/live/as/stream.m3u8
+鳳凰衛視,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=phoenixtv_hd
 
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
+鳳凰資訊,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=phoenixinfo_hd
 
-翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
-TVB PLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
-HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
-澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
-澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
+Viu6,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=viusix_twn
 
-重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 
-千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=jade_twn
 
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-美亚电影频粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
-高清电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
-莲花卫视,http://php.jdshipin.com:8880/amlh.php
-千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-无线生活,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
-星河台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+翡翠台 backup,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=jade_mike
+
+Tvbmagic,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=Tvbmagic
+
+iNews 新聞台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=inews_twn
+J
+ 2,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=j2_twn
+ 
+J2 備用,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=j2_hkdavid
+
+珍珠台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=pearl_twn
+
+珍珠台  備用,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=pearl_hkdavid
+
+無線財經資訊台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=tvbcaijing_twn
+
+TVB 星河,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=tvbxinhe_twn
+
+RHK 31,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=rhk31_twn
+
+VIUTV1,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=viu1_twn
+
+RHK 32,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=rhk32_twn
+
+Viu TV 69,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=viutv69_hkdavid
 
 
 
-香港节目,#genre#
+广东系列W,#genre#
 
-中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+广东卫视,webview://https://m.gdtv.cn/tvChannelDetail/43
 
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+广东珠江,webview://https://m.gdtv.cn/tvChannelDetail/44
 
+广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
+
+广东新闻,webview://https://m.gdtv.cn/tvChannelDetail/45
+
+广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
+
+广东民生,webview://https://m.gdtv.cn/tvChannelDetail/48
+
+广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
+
+广东体育,webview://https://m.gdtv.cn/tvChannelDetail/47
+
+广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
+
+大湾区卫视,webview://=https://m.gdtv.cn/tvChannelDetail/51
+
+大湾区卫视,webview://=https://www.gdtv.cn/tvChannelDetail/51
+
+大湾区卫视（海外）,webview://https://m.gdtv.cn/tvChannelDetail/46
+
+大湾区卫视（海外）,webview://https://www.gdtv.cn/tvChannelDetail/46
+
+广东少儿,webview://https://m.gdtv.cn/tvChannelDetail/54
+
+广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
+
+嘉佳卡通,webview://https://m.gdtv.cn/tvChannelDetail/66
+
+嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
+
+广东移动,webview://https://m.gdtv.cn/tvChannelDetail/74
+
+广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
+
+
+
+树大央视,#genre#
+
+CCTV-1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV-1,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
+CCTV-1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV-1,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
+CCTV-1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
+CCTV-1,webview://https://tv.cctv.com/live/cctv1/
+CCTV-1,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
+CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
+CCTV-2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+CCTV-2,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2
+CCTV-2,webview://https://m.miguvideo.com/m/liveDetail/631780532?channelId=10010001005
+CCTV-2,webview://https://vod.cctv.cn/cctv/cctvh5/cctv2/2023/05/cctv2_share/index.html
+CCTV-2,webview://https://tv.cctv.com/live/cctv2/
+CCTV-2,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
+CCTV-2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
+CCTV-3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV-3,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3
+CCTV-3,webview://https://tv.cctv.com/live/cctv3/m/
+CCTV-3,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
+CCTV-3,webview://https://yangshipin.cn/tv/home?pid=600001801
+CCTV-4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+CCTV-4,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4
+CCTV-4,webview://https://m.miguvideo.com/m/liveDetail/631780421?channelId=10010001005
+CCTV-4,webview://https://tv.cctv.com/live/cctv4/m/
+CCTV-4,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv4/
+CCTV-4,webview://https://www.yangshipin.cn/tv/home?pid=600001814
+CCTV-5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
+CCTV-5,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5
+CCTV-5,webview://https://tv.cctv.com/live/cctv5/
+CCTV-5,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5/
+CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818
+CCTV-6,video://https://m.1905.com/m/cctv6/gzh/
+CCTV-6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
+CCTV-6,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6
+CCTV-6,webview://https://m.1905.com/m/cctv6/gzh/
+CCTV-6,webview://https://tv.cctv.com/live/cctv6/
+CCTV-6,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
+CCTV-6,webview://https://yangshipin.cn/tv/home?pid=600108442
+CCTV-7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV-7,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
+CCTV-7,webview://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
+CCTV-7,webview://https://tv.cctv.com/live/cctv7/m/
+CCTV-7,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv7/
+CCTV-7,webview://https://www.yangshipin.cn/tv/home?pid=600004092
+CCTV-8,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8
+CCTV-8,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv8/
+CCTV-8,webview://https://yangshipin.cn/tv/home?pid=600001803
+CCTV-9,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
+CCTV-9,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv9
+CCTV-9,webview://https://tv.cctv.com/live/cctvjilu/m/
+CCTV-9,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvjilu/
+CCTV-9,webview://https://www.yangshipin.cn/tv/home?pid=600004078
+CCTV-10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
+CCTV-10,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv10
+CCTV-10,webview://https://tv.cctv.com/live/cctv10/
+CCTV-10,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv10/
+CCTV-10,webview://https://www.yangshipin.cn/tv/home?pid=600001805
+CCTV-11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
+CCTV-11,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv11
+CCTV-11,webview://https://tv.cctv.com/live/cctv11/
+CCTV-11,webview://https://www.yangshipin.cn/tv/home?pid=600001806
+CCTV-12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
+CCTV-12,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv12
+CCTV-12,webview://https://tv.cctv.com/live/cctv12/
+CCTV-12,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv12/
+CCTV-12,webview://https://www.yangshipin.cn/tv/home?pid=600001807
+CCTV-13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+CCTV-13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+CCTV-13,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv13
+CCTV-13,webview://https://m.miguvideo.com/m/liveDetail/608807423?channelId=10010001005
+CCTV-13,webview://https://tv.cctv.com/live/cctv13/
+CCTV-13,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv13/
+CCTV-13,webview://https://yangshipin.cn/tv/home?pid=600001811
+CCTV-14,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv14
+CCTV-14,webview://https://tv.cctv.com/live/cctvchild/
+CCTV-14,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvchild/
+CCTV-14,webview://https://www.yangshipin.cn/tv/home?pid=600001809
+CCTV-15,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv15
+CCTV-15,webview://https://tv.cctv.com/live/cctv15/
+CCTV-15,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv15/
+CCTV-15,webview://https://www.yangshipin.cn/tv/home?pid=600001815
+CCTV-16,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16
+CCTV-16,webview://https://tv.cctv.com/live/cctv16/
+CCTV-16,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv16/
+CCTV-16,webview://https://www.yangshipin.cn/tv/home?pid=600098637
+CCTV-17,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
+CCTV-17,webview://https://tv.cctv.com/live/cctv17/
+CCTV-17,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/
+CCTV-17,webview://https://www.yangshipin.cn/tv/home?pid=600001810
+CCTV-5+,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV-5+,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus
+CCTV-5+,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5plus/
+
+
+CCTV-4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
+CCTV-8K,webview://https://yangshipin.cn/tv/home?pid=600156816
+CCTV4欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope
+CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope/
+CCTV4欧洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctveurope/
+CCTV4美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica
+CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
+CCTV4美洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvamerica/
+
+CECTV-1 汉语文化,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-1 汉语文化,video://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-2 国际旅游,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-2 国际旅游,video://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-3 国际教育,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-3 国际教育,video://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-4 国际健康,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CECTV-4 国际健康,video://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+
+CGTN,video://https://www.cgtn.com/tv
+CGTN,webview://https://www.cgtn.com/tv
+CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
+CGTN纪录,video://https://www.cgtn.com/channel/documentary
+CGTN纪录,webview://https://www.cgtn.com/channel/documentary
+CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
+CGTN法语,video://https://francais.cgtn.com/channel
+CGTN法语,webview://https://francais.cgtn.com/channel
+CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
+CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
+CGTN俄语,webview://https://russian.cgtn.com/channel
+CGTN西班牙语,video://https://espanol.cgtn.com/en-directo
+CGTN西班牙语,webview://https://espanol.cgtn.com/en-directo
+CGTN西班牙语,webview://https://yangshipin.cn/tv/home?pid=600084744
+CGTN阿拉伯语,video://https://arabic.cgtn.com/channel
+CGTN阿拉伯语,webview://https://arabic.cgtn.com/channel
+CGTN阿拉伯语,webview://https://yangshipin.cn/tv/home?pid=600084782
+
+CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827
+CETV-1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
+CETV-2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
+CETV-4,webview://https://edu.cctv.com/cetv/
+
+
+
+
+卫视,#genre#
+北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
+北京卫视,webview://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
+北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
+北京卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002309
+江苏卫视,video://https://live.jstv.com/?channelId=534
+江苏卫视,webview://https://live.jstv.com/?channelld=534
+江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
+东方卫视,video://https://live.kankanews.com/huikan?id=1
+东方卫视,webview://https://live.kankanews.com/huikan
+东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
+浙江卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
+浙江卫视,video://https://www.cztv.com/liveTV/101
+浙江卫视,webview://https://www.xuexi.cn/xxqg.html?id=0b0936946bd7416fa80aaeb4072f369a
+浙江卫视,webview://https://zmtv.cztv.com/cmsh5-share/prod/cztv-tvLive/index.html
+浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
+湖南卫视,video://https://www.mgtv.com/live/
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
+湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
+湖北卫视,webview://https://www.xuexi.cn/xxqg.html?id=894c6f103e094ab58f51cf0f96870a3d
+湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
+广东卫视,video://https://www.gdtv.cn/tvChannelDetail/94
+广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
+广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
+广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
+广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
+广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
+黑龙江卫视,video://https://www.hljtv.com/live/folder418/
+黑龙江卫视,webview://https://www.hljtv.com/live/folder418/
+黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
+海南卫视,video://http://tc.hnntv.cn/
+海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
+重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
+深圳卫视,video://https://www.sztv.com.cn/dianshi.shtml?id=7867
+深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
+深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
+四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
+河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
+河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
+东南卫视,video://https://live.fjtv.net/setv/
+东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
+贵州卫视,video://https://www.gzstv.com/tv/ch01
+贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490
+江西卫视,video://https://www.jxntv.cn/live/#/
+江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503
+辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505
+安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
+安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
+安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
+河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493
+山东卫视,video://https://v.iqilu.com/live/sdtv/
+山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
+天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
+天津卫视,webview://https://yangshipin.cn/tv/home?pid=6000152137
+吉林卫视,video://https://www.jlntv.cn/tv?id=104
+吉林卫视,webview://https://www.jlntv.cn/tv?id=104
+吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405
+山西卫视,video://https://www.sxrtv.com/tv/index.shtml
+山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
+山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
+陕西卫视,video://http://live.snrtv.com/star
+陕西卫视,webview://http://www.sxtvs.com/sxtvs_sxws/index.html
+陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400
+宁夏卫视,video://https://www.nxtv.com.cn/tv/ws/
+宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737
+甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml#
+甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408
+甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
+云南卫视,video://https://www.yntv.cn/live.html
+云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
+青海卫视,video://https://www.qhbtv.com/new_index/live/folder2646/
+青海卫视,webview://http://www.qhbtv.com/new_index/live/folder2646/
+青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
+内蒙古卫视,video://https://www.nmtv.cn/liveTv
+内蒙古卫视,webview://https://www.nmtv.cn/liveTv
+内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
+新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
+新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelld=1
+西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
+风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
+第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
+怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 
 
