@@ -1,4 +1,4 @@
-广东系列A,#grnre#
+广东系列A,#genre#
 
 广东卫视,http://A/ku9/js/ku9js.js?id=https://m.gdtv.cn/tvChannelDetail/43
 
