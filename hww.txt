@@ -1,4 +1,4 @@
-2025新电影更新中,#genre#
+2025新电影,#genre#
 脱离罪恶 Off the Grid (2025)上映日期: 2025-06-27(美国),https://p.b8bf.com/video/tuolizuie/HD/index.m3u8
 黑宅故事 Tales from Black Manor (2025)上映日期: 2025-06-23(网络),https://cdn.yzzy29-play.com/20250628/175_82161242/index.m3u8
 阿尔玛与狼 Alma and the Wolf (2025)上映日期: 2025-06-20(美国),https://cdn.yzzy29-play.com/20250621/133_9fc3d715/index.m3u8
@@ -6675,6 +6675,10 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 伦敦的山本五十六(日本战争片),https://vip1.lz-cdn1.com/20220317/45_5d826942/index.m3u8
 冰雪狙击(大陆战争片),https://vip1.lz-cdn1.com/20220317/27_4d256411/index.m3u8
 拯救大兵瑞恩(美国战争片),https://vip.lzcdn2.com/20220318/17_62bcd0a1/index.m3u8
+
+
+
+
 国家电台FM,#genre#
 CNR1中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 CNR2经济之声,https://ngcdn001.cnr.cn/live/jjzs/index.m3u8
@@ -6698,128 +6702,7 @@ CRI环球资讯广播(CRINewsRadio),https://sk.cri.cn/905.m3u8
 CRI世界华声(粤客闽潮方言广播海峡飞虹),https://sk.cri.cn/hxfh.m3u8
 CRIEZFM轻松调频,https://sk.cri.cn/915.m3u8
 HITFM劲曲调频,https://sk.cri.cn/887.m3u8/cctvamerica/
-CCTV4美洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvamerica/
 
-CECTV-1 汉语文化,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CECTV-1 汉语文化,video://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CECTV-2 国际旅游,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CECTV-2 国际旅游,video://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CECTV-3 国际教育,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CECTV-3 国际教育,video://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CECTV-4 国际健康,video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-CECTV-4 国际健康,video://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-
-CGTN,video://https://www.cgtn.com/tv
-CGTN,webview://https://www.cgtn.com/tv
-CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
-CGTN纪录,video://https://www.cgtn.com/channel/documentary
-CGTN纪录,webview://https://www.cgtn.com/channel/documentary
-CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
-CGTN法语,video://https://francais.cgtn.com/channel
-CGTN法语,webview://https://francais.cgtn.com/channel
-CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
-CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
-CGTN俄语,webview://https://russian.cgtn.com/channel
-CGTN西班牙语,video://https://espanol.cgtn.com/en-directo
-CGTN西班牙语,webview://https://espanol.cgtn.com/en-directo
-CGTN西班牙语,webview://https://yangshipin.cn/tv/home?pid=600084744
-CGTN阿拉伯语,video://https://arabic.cgtn.com/channel
-CGTN阿拉伯语,webview://https://arabic.cgtn.com/channel
-CGTN阿拉伯语,webview://https://yangshipin.cn/tv/home?pid=600084782
-
-CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827
-CETV-1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV-2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-CETV-4,webview://https://edu.cctv.com/cetv/
-
-
-
-
-卫视,#genre#
-北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
-北京卫视,webview://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
-北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
-北京卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002309
-江苏卫视,video://https://live.jstv.com/?channelId=534
-江苏卫视,webview://https://live.jstv.com/?channelld=534
-江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
-东方卫视,video://https://live.kankanews.com/huikan?id=1
-东方卫视,webview://https://live.kankanews.com/huikan
-东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
-浙江卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
-浙江卫视,video://https://www.cztv.com/liveTV/101
-浙江卫视,webview://https://www.xuexi.cn/xxqg.html?id=0b0936946bd7416fa80aaeb4072f369a
-浙江卫视,webview://https://zmtv.cztv.com/cmsh5-share/prod/cztv-tvLive/index.html
-浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
-湖南卫视,video://https://www.mgtv.com/live/
-湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
-湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
-湖北卫视,webview://https://www.xuexi.cn/xxqg.html?id=894c6f103e094ab58f51cf0f96870a3d
-湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
-广东卫视,video://https://www.gdtv.cn/tvChannelDetail/94
-广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
-广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
-广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
-黑龙江卫视,video://https://www.hljtv.com/live/folder418/
-黑龙江卫视,webview://https://www.hljtv.com/live/folder418/
-黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
-海南卫视,video://http://tc.hnntv.cn/
-海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
-重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
-深圳卫视,video://https://www.sztv.com.cn/dianshi.shtml?id=7867
-深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
-深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
-四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
-河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
-河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
-东南卫视,video://https://live.fjtv.net/setv/
-东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
-贵州卫视,video://https://www.gzstv.com/tv/ch01
-贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490
-江西卫视,video://https://www.jxntv.cn/live/#/
-江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503
-辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505
-安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
-安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
-安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
-河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
-河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493
-山东卫视,video://https://v.iqilu.com/live/sdtv/
-山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
-天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
-天津卫视,webview://https://yangshipin.cn/tv/home?pid=6000152137
-吉林卫视,video://https://www.jlntv.cn/tv?id=104
-吉林卫视,webview://https://www.jlntv.cn/tv?id=104
-吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405
-山西卫视,video://https://www.sxrtv.com/tv/index.shtml
-山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
-山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-陕西卫视,video://http://live.snrtv.com/star
-陕西卫视,webview://http://www.sxtvs.com/sxtvs_sxws/index.html
-陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400
-宁夏卫视,video://https://www.nxtv.com.cn/tv/ws/
-宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737
-甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml#
-甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408
-甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
-云南卫视,video://https://www.yntv.cn/live.html
-云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
-青海卫视,video://https://www.qhbtv.com/new_index/live/folder2646/
-青海卫视,webview://http://www.qhbtv.com/new_index/live/folder2646/
-青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
-内蒙古卫视,video://https://www.nmtv.cn/liveTv
-内蒙古卫视,webview://https://www.nmtv.cn/liveTv
-内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
-新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
-新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelld=1
-西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
-风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
-第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
-第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
-怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 
 
